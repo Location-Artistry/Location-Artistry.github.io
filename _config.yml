@@ -20,7 +20,7 @@ timezone:
 
 title: Location Visualization # the main title
 
-tagline: Developments in Geospatial(data)Science, Tech & Tools   # it will display as the sub-title
+tagline: Developments in Geospatial(data)Science, Tech & Tooling   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A space for developments in Geospatial, GIS, Data Science, GeoDev, GeoTech, UAVs, & Data Visualization.
