@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: "/location-viz-2023/"
+baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   A space for developments in Geospatial, GIS, Data Science, GeoDev, GeoTech, UAVs, & Data Visualization.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://location-artistry.github.io"
+url: "https://Location-Artistry.github.io"
 
 github:
   username: Location-Artistry # change to your github username
@@ -76,7 +76,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: avatar.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
